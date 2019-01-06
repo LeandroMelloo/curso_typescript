@@ -7,7 +7,7 @@ function exemplo(a, b, c) {
     console.log(a,b,c);
 }
 
-exemplo(1,2);
+exemplo(1,2,5);
 
 //----------------------ES6 default parameters----------------------//
 function exemplo1(a = 1, b = 2, c = 3){
